@@ -1,0 +1,201 @@
+﻿TransactionId;MerchantCnpj;CheckoutCode;CipheredCardNumber;AmountInCent;Installments;AcquirerName;PaymentMethod;CardBrandName;Status;StatusInfo;CreatedAt;AcquirerAuthorizationDateTime
+1;77404852000179;36245;************8082;1001;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 04:02:34.000;2018-03-01 01:02:38.000
+2;30481457000126;39206;************9077;3785;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 04:00:52.000;2018-03-01 01:00:54.000
+3;28176030000172;34242;************5015;936;1;Redecard;Voucher;Sodexo Refeicao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:59:14.000;2018-03-01 00:59:16.000
+4;00250435000194;42490;************3114;2990;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:59:02.000;2018-03-01 01:03:19.000
+5;08555150000173;39940;************7917;1900;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:57:01.000;2018-03-01 00:55:48.000
+6;28176030000172;34244;************6054;1725;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:57:21.000;2018-03-01 00:57:23.000
+7;00685267000160;42524;************8010;2000;1;Getnet;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:55:53.000;2018-03-01 00:56:36.000
+8;21442989000163;43891;************9107;7150;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:54:52.000;2018-03-01 00:55:36.000
+9;21442989000163;43891;************5012;11600;1;Cielo;Voucher;Alelo Refeicao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:52:09.000;2018-03-01 00:52:53.000
+10;57971160000871;44331;************1139;1490;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:52:03.000;2018-03-01 00:52:47.000
+11;04404938000128;38837;************8233;3000;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:52:40.000;2018-03-01 00:52:38.000
+12;12698826000155;42517;************2834;3851;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:51:28.000;2018-03-01 00:46:09.000
+13;54044573000146;28865;************8432;8900;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:51:05.000;2018-03-01 00:51:07.000
+14;09429293000100;38687;************7960;4000;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:51:32.000;2018-03-01 00:51:31.000
+15;12698826000155;42517;************1325;3852;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:50:35.000;2018-03-01 00:51:18.000
+16;10282710000105;21194;************3301;12801;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:49:57.000;2018-03-01 00:49:59.000
+17;21442989000163;43891;************7102;7535;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:49:24.000;2018-03-01 00:50:02.000
+18;22895641000194;32724;************2537;24500;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:49:59.000;2018-03-01 00:50:53.000
+19;04404938000128;38837;************5203;3000;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:50:05.000;2018-03-01 00:50:04.000
+20;15559082000186;7826;************597;24000;1;Getnet;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:49:25.000;2018-03-01 00:48:03.000
+21;54044573000146;28865;************3329;8900;1;Cielo;Crédito à Vista;Mastercard;Recusada;Saldo Insuficiente - O saldo do cliente ou limite de crédito não é suficiente para efetuar o pagamento solicitado.;2018-03-01 03:47:32.000;2018-03-01 00:47:34.000
+22;15593743000351;31700;************9014;4100;1;Cielo;Voucher;Alelo Alimentacao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:46:52.000;2018-03-01 00:46:54.000
+23;13941066000128;47859;************1224;3740;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:46:19.000;2018-03-01 00:47:00.000
+24;21442989000163;43891;************7108;11175;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:45:28.000;2018-03-01 00:46:12.000
+25;07638113000166;45169;************1607;186000;3;Cielo;Crédito Parcelado Loja;Elo Credito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:45:46.000;2018-03-01 00:46:29.000
+26;22895641000194;32724;************1884;4750;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:45:30.000;2018-03-01 00:46:25.000
+27;15593743000351;31700;************9014;4100;1;Cielo;Voucher;Alelo Alimentacao;Recusada;Senha Inválida - A senha digitada pelo cliente não confere.;2018-03-01 03:45:34.000;2018-03-01 00:45:35.000
+28;04404938000128;38837;************6925;5000;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:44:55.000;2018-03-01 00:44:54.000
+29;30481457000126;39206;************5136;4603;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:45:08.000;2018-03-01 00:45:10.000
+30;22895641000194;32724;************3837;4000;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:43:56.000;2018-03-01 00:44:50.000
+31;22895641000194;32724;************5358;5550;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:43:03.000;2018-03-01 00:43:58.000
+32;24110320000162;31218;************4561;2188;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:43:04.000;2018-03-01 00:43:06.000
+33;24110320000162;31218;************9927;600;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:41:35.000;2018-03-01 00:41:36.000
+34;21920466000185;22462;************6309;3800;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:37:42.000;2018-03-01 00:38:26.000
+35;21442989000163;43891;************8615;6896;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:37:26.000;2018-03-01 00:38:04.000
+36;21442989000163;43891;************2130;6896;1;Stone;Débito à Vista;Electron;Recusada;Saldo Insuficiente - O saldo do cliente ou limite de crédito não é suficiente para efetuar o pagamento solicitado.;2018-03-01 03:37:06.000;2018-03-01 00:37:44.000
+37;03473293000112;44407;************9282;9080;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:37:55.000;2018-03-01 00:38:41.000
+38;11158594000180;26106;************2632;1199;1;Redecard;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:36:52.000;2018-03-01 00:36:54.000
+39;37539285000143;13439;************8497;20660;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:36:36.000;2018-03-01 00:37:22.000
+40;15593743000351;31700;************3743;600;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:36:51.000;2018-02-28 23:36:49.000
+41;21442989000163;43891;************2130;11896;1;Stone;Débito à Vista;Electron;Recusada;Saldo Insuficiente - O saldo do cliente ou limite de crédito não é suficiente para efetuar o pagamento solicitado.;2018-03-01 03:36:10.000;2018-03-01 00:36:48.000
+42;53154225007686;44503;************3024;1490;1;Cielo;Voucher;Alelo;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:36:02.000;2018-03-01 00:36:04.000
+43;21442989000163;43891;************9113;5946;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:35:36.000;2018-03-01 00:36:14.000
+44;24110320000162;31218;************9927;849;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:36:05.000;2018-03-01 00:36:07.000
+45;15559082000186;32500;************597;400;1;Getnet;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:36:44.000;2018-03-01 00:35:22.000
+46;07638113000166;45169;************187;18347;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:34:57.000;2018-03-01 00:35:44.000
+47;07485962000127;40812;************9133;2600;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:34:12.000;2018-03-01 00:34:56.000
+48;21442989000163;43891;************2130;11896;1;Stone;Débito à Vista;Electron;Recusada;Saldo Insuficiente - O saldo do cliente ou limite de crédito não é suficiente para efetuar o pagamento solicitado.;2018-03-01 03:33:01.000;2018-03-01 00:33:39.000
+49;15593743000513;35429;************3103;600;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:32:50.000;2018-02-28 23:34:36.000
+50;21442989000163;43891;************3206;5948;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:31:54.000;2018-03-01 00:32:38.000
+51;17872744000107;47128;************3220;770;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:30:54.000;2018-03-01 00:31:18.000
+52;02012862002537;38012;************1753;8000;1;Redecard;Débito à Vista;Maestro;Recusada;Senha Inválida - A senha digitada pelo cliente não confere.;2018-03-01 03:31:07.000;2018-03-01 00:31:08.000
+53;13941066000128;47859;************9205;13750;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:30:37.000;2018-03-01 00:31:21.000
+54;11158594000180;26106;************8297;1600;1;Redecard;Crédito à Vista;Hipercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:30:17.000;2018-03-01 00:30:19.000
+55;10267408000188;23690;************4208;1800;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:28:45.000;2018-03-01 00:28:47.000
+56;15593743000351;31700;************7437;900;1;Getnet;Crédito à Vista;Mastercard;Recusada;Saldo Insuficiente - O saldo do cliente ou limite de crédito não é suficiente para efetuar o pagamento solicitado.;2018-03-01 03:28:40.000;2018-02-28 23:28:37.000
+57;09429293000100;38686;************1826;3000;1;Getnet;Débito à Vista;Maestro;Recusada;Instituição temporariamente fora do ar. A instituição que autoriza a transaÃ§Ã£o nÃ£o pode atender no momento. Banco Emissor IndisponÃ­vel.;2018-03-01 03:28:05.000;2018-03-01 00:28:05.000
+58;10267408000188;23690;************7205;4580;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:27:38.000;2018-03-01 00:27:40.000
+59;09429293000100;38687;************1826;3000;1;Getnet;Débito à Vista;Maestro;Recusada;Instituição temporariamente fora do ar. A instituição que autoriza a transaÃ§Ã£o nÃ£o pode atender no momento. Banco Emissor IndisponÃ­vel.;2018-03-01 03:27:24.000;2018-03-01 00:27:22.000
+60;78728359000177;264;************1735;1600;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:25:27.000;2018-03-01 00:25:29.000
+61;53154225007686;44503;************3903;1990;1;Redecard;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:25:08.000;2018-03-01 00:25:10.000
+62;78728359000177;264;************2134;1440;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:23:43.000;2018-03-01 00:23:46.000
+63;30481457000126;39206;************9640;14676;2;Cielo;Crédito Parcelado Loja;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:24:03.000;2018-03-01 00:24:05.000
+64;12698826000155;42517;************3579;11607;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:23:01.000;2018-03-01 00:17:42.000
+65;54044573000146;28865;************7296;40900;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:22:46.000;2018-03-01 00:22:48.000
+66;30481457000126;39206;************5842;3439;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:22:47.000;2018-03-01 00:22:49.000
+67;21960725000100;37804;************2682;1500;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:23:15.000;2018-03-01 00:23:17.000
+68;10749204000183;9356;************9337;2550;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:20:17.000;2018-03-01 00:21:01.000
+69;30481457000126;39206;************9852;3400;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:19:51.000;2018-03-01 00:19:52.000
+70;17872744000107;47128;************5826;500;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:18:34.000;2018-03-01 00:18:57.000
+71;10749204000183;9356;************9132;1800;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:18:33.000;2018-03-01 00:19:17.000
+72;05812320000240;29962;************1126;21100;1;Cielo;Débito à Vista;Electron;Recusada;Instituição temporariamente fora do ar. A instituição que autoriza a transaÃ§Ã£o nÃ£o pode atender no momento. Banco Emissor IndisponÃ­vel.;2018-03-01 03:18:10.000;2018-03-01 00:19:06.000
+73;30481457000126;39206;************7071;435;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:18:38.000;2018-03-01 00:18:40.000
+74;05812320000240;29962;************1126;21100;1;Cielo;Débito à Vista;Electron;Recusada;Instituição temporariamente fora do ar. A instituição que autoriza a transaÃ§Ã£o nÃ£o pode atender no momento. Banco Emissor IndisponÃ­vel.;2018-03-01 03:17:22.000;2018-03-01 00:18:17.000
+75;25403113000169;38300;************1793;3979;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:18:15.000;2018-03-01 00:18:16.000
+76;00250435000194;42490;************3638;2000;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:17:57.000;2018-03-01 00:22:57.000
+77;17872744000107;47128;************532;2739;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:17:56.000;2018-03-01 00:18:20.000
+78;26837175000141;40765;************3379;2448;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:17:10.000;2018-03-01 00:17:12.000
+79;24995329000106;45194;************6278;2800;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:16:18.000;2018-03-01 00:17:02.000
+80;10267408000188;23690;************7094;900;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:16:59.000;2018-03-01 00:17:01.000
+81;24110320000162;31218;************2010;2700;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:17:22.000;2018-03-01 00:17:24.000
+82;17872744000107;47128;************5711;869;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:16:38.000;2018-03-01 00:17:02.000
+83;53154225007686;44503;************3010;1890;1;Redecard;Voucher;Sodexo Refeicao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:16:25.000;2018-03-01 00:16:27.000
+84;26837175000141;40765;************7930;1899;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:16:37.000;2018-03-01 00:16:39.000
+85;26837175000141;40765;************2503;3798;1;Cielo;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:15:54.000;2018-03-01 00:16:00.000
+86;28176030000172;34242;************4014;380;1;Redecard;Voucher;Sodexo Refeicao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:14:57.000;2018-03-01 00:14:58.000
+87;53154225007686;44503;************2019;1890;1;Redecard;Voucher;Sodexo Refeicao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:15:02.000;2018-03-01 00:15:03.000
+88;07485962000127;40812;************683;3600;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:14:26.000;2018-03-01 00:15:09.000
+89;06222367000136;46850;************2615;10800;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:15:00.000;2018-03-01 00:15:44.000
+90;53154225007686;44503;************13;1890;1;Redecard;Voucher;Sodexo Refeicao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:14:00.000;2018-03-01 00:14:02.000
+91;24110320000162;31218;************7772;1000;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:14:36.000;2018-03-01 00:14:38.000
+92;15593743000947;39974;************8844;1350;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:12:15.000;2018-03-01 00:12:55.000
+93;30481457000126;39206;************251;4400;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:11:40.000;2018-03-01 00:11:42.000
+94;21977101000197;25628;************2139;2100;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:09:43.000;2018-03-01 00:09:43.000
+95;25914235000110;38166;************1548;960;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:10:17.000;2018-03-01 00:10:18.000
+96;15593743000190;6555;************9106;2000;1;Cielo;Débito à Vista;Elo Debito;Recusada;CartÃ£o vencido - O cartÃ£o estÃ¡ com a data de validade vencida.;2018-03-01 03:08:21.000;2018-03-01 00:09:04.000
+97;30481457000126;39206;************9202;2900;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:09:13.000;2018-03-01 00:09:15.000
+98;09429293000100;38686;************9011;1000;1;Cielo;Crédito à Vista;Credz;Recusada;TransaÃ§Ã£o Negada - nÃ£o aceita pela Rede Autorizadora.;2018-03-01 03:09:23.000;2018-03-01 00:09:25.000
+99;13705903000110;39601;************4840;5800;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:08:20.000;2018-03-01 00:08:22.000
+100;17694732000121;40949;************1768;5501;1;Getnet;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:07:13.000;2018-03-01 00:07:57.000
+101;15593743000190;6555;************9106;2000;1;Cielo;Débito à Vista;Elo Debito;Recusada;CartÃ£o vencido - O cartÃ£o estÃ¡ com a data de validade vencida.;2018-03-01 03:07:53.000;2018-03-01 00:08:37.000
+102;15593743000351;31700;************1012;3100;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:08:21.000;2018-02-28 23:08:19.000
+103;77888881000153;44589;************4060;9914;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:07:01.000;2018-03-01 00:07:04.000
+104;30481457000126;39206;************1758;2399;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:07:11.000;2018-03-01 00:07:13.000
+105;77888881000153;44589;************6552;10000;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:06:29.000;2018-03-01 00:06:31.000
+106;78728359000177;264;************1319;3700;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:06:24.000;2018-03-01 00:06:26.000
+107;15593743000351;31700;************4017;1900;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:06:12.000;2018-02-28 23:06:10.000
+108;17872744000107;47128;************5591;13552;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:04:06.000;2018-03-01 00:04:29.000
+109;15593743000351;31700;************5016;2800;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:05:31.000;2018-02-28 23:05:29.000
+110;10749204000183;9356;************738;1500;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:03:55.000;2018-03-01 00:04:39.000
+111;09429293000100;38686;************3134;5000;1;Getnet;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:04:33.000;2018-03-01 00:04:33.000
+112;17623082000123;46893;************4336;22072;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:03:55.000;2018-03-01 00:04:41.000
+113;21960725000100;37804;************7171;1050;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:03:13.000;2018-03-01 00:03:15.000
+114;14950233000160;936;************2725;400;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:01:46.000;2018-03-01 00:01:47.000
+115;02012862006958;37953;************2377;8000;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:01:53.000;2018-03-01 00:01:55.000
+116;30481457000126;39206;************3391;5553;1;Cielo;Débito à Vista;Electron;Recusada;TransaÃ§Ã£o InvÃ¡lida - tipo de transaÃ§Ã£o nÃ£o permitida para esse cartÃ£o (dÃ©bito, crÃ©tido, voucher, etc).;2018-03-01 03:02:04.000;2018-03-01 00:02:09.000
+117;05535694000185;37318;************8128;2000;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:00:45.000;2018-03-01 00:00:45.000
+118;22895641000194;32724;************8113;1684;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:00:56.000;2018-03-01 00:01:50.000
+119;22913383000121;44104;************6806;3872;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:59:05.000;2018-02-28 23:59:39.000
+120;30481457000126;39206;************1658;1400;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 03:00:25.000;2018-03-01 00:00:28.000
+121;01965830000116;21627;************8103;4637;1;Redecard;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:58:55.000;2018-02-28 23:58:57.000
+122;22895641000194;32724;************6445;1983;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:58:29.000;2018-02-28 23:59:23.000
+123;15593743000513;35429;************2809;1200;1;Getnet;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:58:41.000;2018-02-28 23:00:27.000
+124;28176030000172;34242;************2066;1398;1;Redecard;Voucher;Sodexo Alimentacao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:57:47.000;2018-02-28 23:57:49.000
+125;02994728000101;8159;************1779;1950;1;Bin;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:58:25.000;2018-02-28 23:58:17.000
+126;22895641000194;32724;************8941;1233;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:57:48.000;2018-02-28 23:58:42.000
+127;18181688000119;31911;************6972;908;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:57:03.000;2018-02-28 23:57:47.000
+128;28176030000172;34242;************2066;1398;1;Redecard;Voucher;Sodexo Alimentacao;Recusada;Rede Adquirente/Autorizadora nÃ£o conectada - nÃ£o pode autorizar transaÃ§Ãµes neste momento.;2018-03-01 02:57:26.000;2018-02-28 23:57:28.000
+129;05535694000185;37314;************2077;300;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:57:04.000;2018-02-28 23:57:11.000
+130;30481457000126;39206;************6844;2643;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:57:40.000;2018-02-28 23:57:42.000
+131;07485962000127;39991;************8416;4600;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:56:32.000;2018-02-28 23:57:19.000
+132;24110320000162;31218;************6935;1596;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:57:26.000;2018-02-28 23:57:27.000
+133;18604555000108;35348;************4052;2750;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:55:55.000;2018-02-28 23:56:39.000
+134;18181688000119;31911;************9524;3159;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:55:36.000;2018-02-28 23:56:20.000
+135;10649601000264;40910;************8593;146400;1;Bin;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:55:34.000;2018-02-28 23:55:30.000
+136;22895641000194;32724;************9135;1750;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:54:46.000;2018-02-28 23:55:40.000
+137;22895641000194;32724;************392;3500;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:54:19.000;2018-02-28 23:55:13.000
+138;10649601000264;40910;************9624;5640;1;Bin;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:54:10.000;2018-02-28 23:54:06.000
+139;30481457000126;39206;************2622;4440;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:53:53.000;2018-02-28 23:53:55.000
+140;09298074000120;13400;************4010;9050;1;Cielo;Voucher;Alelo Alimentacao;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:53:53.000;2018-02-28 23:53:55.000
+141;10649601000264;40910;************8309;5000;1;Bin;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:53:37.000;2018-02-28 23:53:33.000
+142;26837175000141;40765;************4250;3398;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:53:16.000;2018-02-28 23:53:17.000
+143;24635880000130;44400;************1290;2180;1;Redecard;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:52:07.000;2018-02-28 23:52:51.000
+144;09429293000100;38687;************6489;1500;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:53:32.000;2018-02-28 23:53:34.000
+145;09429293000100;38686;************6818;2000;1;Getnet;Débito à Vista;Electron;Recusada;Senha Inválida - A senha digitada pelo cliente não confere.;2018-03-01 02:53:12.000;2018-02-28 23:53:13.000
+146;15593743000602;31703;************2745;1170;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:53:34.000;2018-02-28 23:54:28.000
+147;17967556000154;28616;************9180;1074;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:52:09.000;2018-02-28 23:52:11.000
+148;09429293000100;38686;************6818;2000;1;Getnet;Débito à Vista;Electron;Recusada;Senha Inválida - A senha digitada pelo cliente não confere.;2018-03-01 02:52:18.000;2018-02-28 23:52:18.000
+149;00250435000194;42490;************9272;5465;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:51:37.000;2018-02-28 23:56:39.000
+150;05310369000386;38333;************6117;2543;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:50:18.000;2018-02-28 23:51:02.000
+151;30481457000126;39206;************8722;1049;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:51:01.000;2018-02-28 23:51:03.000
+152;26835009000106;4366;************3360;3000;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:50:04.000;2018-02-28 23:50:07.000
+153;00685267000160;42524;************1222;1550;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:49:13.000;2018-02-28 23:49:56.000
+154;11781106000439;9704;************1019;1713;1;Cielo;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:49:15.000;2018-02-28 23:50:00.000
+155;11781106000196;17890;************4325;2424;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:50:38.000;2018-02-28 23:50:40.000
+156;05027195005812;34895;************317;4999;1;Cielo;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:50:17.000;2018-02-28 23:50:20.000
+157;19005894000130;40798;************7668;6369;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:49:37.000;2018-02-28 23:49:39.000
+158;19005894000130;40798;************6746;6367;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:49:03.000;2018-02-28 23:49:05.000
+159;25403113000169;38218;************8243;350;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:49:10.000;2018-02-28 23:49:11.000
+160;04404938000128;38837;************7025;10000;1;Getnet;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:49:17.000;2018-02-28 23:49:15.000
+161;15593743000602;31703;************7449;2320;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:44.000;2018-02-28 23:48:46.000
+162;50555051000158;22695;************7870;11914;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:26.000;2018-02-28 23:49:10.000
+163;11150641000220;31528;************122;1549;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:51.000;2018-02-28 23:48:52.000
+164;15593743000190;6555;************7242;2300;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:23.000;2018-02-28 22:49:06.000
+165;14950233000160;936;************5632;11700;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:47:54.000;2018-02-28 23:47:55.000
+166;70133582000160;40018;************7023;9421;1;Redecard;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:47:48.000;2018-02-28 23:48:31.000
+167;15593743000602;31703;************9661;930;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:47:46.000;2018-02-28 23:48:40.000
+168;19005894000130;40798;************9045;6367;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:28.000;2018-02-28 23:48:29.000
+169;25914235000110;44905;************9694;590;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:33.000;2018-02-28 23:48:35.000
+170;25403113000169;38300;************3880;4548;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:48:22.000;2018-02-28 23:48:24.000
+171;57971160000871;44331;************8042;3440;1;Redecard;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:47:52.000;2018-02-28 23:48:35.000
+172;30481457000126;39206;************9478;649;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:47:11.000;2018-02-28 23:47:13.000
+173;19005894000130;40798;************3191;6367;1;Redecard;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:47:37.000;2018-02-28 23:47:38.000
+174;03747723000147;39069;************5265;2000;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:46:43.000;2018-02-28 23:46:46.000
+175;23688897000193;28492;************5189;16991;1;Stone;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:46:59.000;2018-02-28 23:46:37.000
+176;10267408000188;23690;************1460;2000;1;Cielo;Crédito à Vista;Elo Credito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:46:42.000;2018-02-28 23:46:44.000
+177;22895641000194;32724;************374;2050;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:44.000;2018-02-28 23:46:38.000
+178;50555051000158;22695;************1143;4222;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:18.000;2018-02-28 23:46:02.000
+179;15593743000432;35431;************2845;1700;1;Getnet;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:59.000;2018-02-28 22:46:41.000
+180;22895641000194;32724;************2540;10000;1;Stone;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:16.000;2018-02-28 23:46:10.000
+181;15593743000190;6555;************343;2300;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:25.000;2018-02-28 22:46:07.000
+182;13705903000110;39601;************8578;1200;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:46:19.000;2018-02-28 23:46:20.000
+183;15778229000129;41872;************7106;3875;1;Bin;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:38.000;2018-02-28 23:45:15.000
+184;10649601000264;40910;************2115;267330;1;Bin;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:38.000;2018-02-28 23:45:34.000
+185;18604555000108;35348;************9632;2150;1;Cielo;Crédito à Vista;Mastercard;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:45.000;2018-02-28 23:45:29.000
+186;25914235000110;44905;************7737;300;1;Cielo;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:45:31.000;2018-02-28 23:45:33.000
+187;08555150000173;39940;************7106;500;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:57.000;2018-02-28 23:45:41.000
+188;77888881000153;44589;************762;6626;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:09.000;2018-02-28 23:44:11.000
+189;11158594000180;26106;************2993;3149;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:19.000;2018-02-28 23:44:20.000
+190;21977101000197;25628;************3975;700;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:35.000;2018-02-28 23:44:37.000
+191;05535694000185;37314;************3240;1000;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:32.000;2018-02-28 23:44:38.000
+192;22895641000194;32724;************116;7150;1;Stone;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:43:59.000;2018-02-28 23:44:53.000
+193;08861226000199;32614;************7869;1700;1;Cielo;Crédito à Vista;Visa;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:43:51.000;2018-02-28 23:44:35.000
+194;15593743000432;35431;************6101;11050;1;Getnet;Débito à Vista;Electron;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:43:13.000;2018-02-28 22:43:56.000
+195;30481457000126;39206;************4337;737;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:36.000;2018-02-28 23:44:37.000
+196;15593743000602;31703;************203;2450;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:43:56.000;2018-02-28 23:43:58.000
+197;05027195005812;34895;************9128;7998;1;Cielo;Débito à Vista;Elo Debito;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:44:10.000;2018-02-28 23:44:12.000
+198;26835009000106;4366;************8165;1000;1;Cielo;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:42:45.000;2018-02-28 23:42:48.000
+199;11158594000180;26106;************2301;1309;1;Redecard;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:43:31.000;2018-02-28 23:43:32.000
+200;05535694000185;37314;************6241;5000;1;Stone;Débito à Vista;Maestro;Aprovada;Transação autorizada pela adquirente.;2018-03-01 02:42:44.000;2018-02-28 23:42:50.000
